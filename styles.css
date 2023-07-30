@@ -373,11 +373,12 @@
     background-size: cover;
     position: relative;
     color: #fff;
+    background-image: url('final-fantasy.jpg');
 }
 
-/* .services__card:nth-child(2){
-    background-image: url('https://github.com/suhendraigna/henzgame/blob/main/images/hogwarts-legacy.jpg');
-} */
+.services__card:nth-child(2){
+    background-image: url('hogwarts-legacy.jpg')";
+}
 
 .services h2{
     position: absolute;
